@@ -19,6 +19,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("2 commit")
         
         print("password")
+        
+        print("3 commit")
 
         return true
     }
